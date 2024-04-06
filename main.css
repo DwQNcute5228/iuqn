@@ -1,0 +1,44 @@
+html{
+    background-size: cover;
+    background: no-repeat;
+   
+    background: url(https://i.pinimg.com/236x/4d/a8/cd/4da8cd4ccc6c3b6653d9318e4bd20f40.jpg);
+}
+
+#lkfb{
+    text-align: center;
+}
+#hiiihi{
+    text-align: center;
+    color: rgb(0, 255, 213);
+}
+#foott{
+    color:rgb(255, 48, 12)
+}
+#imga{
+    border: 10px;
+}
+h1{
+    border: 5px;
+    font-size: 50px;
+    font-weight: 500px;
+    font-family: 'Arial';
+    background: url(https://i.pinimg.com/236x/4f/e6/d6/4fe6d6c44dfdb2e5a203f5a0486dd26c.jpg);
+    
+}
+h3{
+    font-family: Roboto Mono;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfhsEhLK9MximCwBLzzN8YN0rLmxuDcPLq5Q&s);
+
+    background-origin: border-box;
+    color: rgba(247, 0, 124, 0.795);
+    text-transform: uppercase;
+
+}
+h4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: underline;
+    
+    background-color: rgb(255, 8, 144,0.25);
+
+}
